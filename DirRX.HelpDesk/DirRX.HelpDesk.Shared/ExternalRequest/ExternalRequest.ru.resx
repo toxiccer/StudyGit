@@ -58,22 +58,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="Action_LinkDocument" xml:space="preserve">
-    <value>Link document</value>
-  </data>
-  <data name="Action_LinkDocumentDescription" xml:space="preserve">
-    <value>Link with document</value>
-  </data>
-  <data name="Action_LinkDocumentHint" xml:space="preserve">
-    <value>Link Document</value>
-  </data>
-  <data name="Action_LinkDocumentConfirmationMessage" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Action_LinkDocumentConfirmationDescription" xml:space="preserve">
-    <value />
-  </data>
 </root>
