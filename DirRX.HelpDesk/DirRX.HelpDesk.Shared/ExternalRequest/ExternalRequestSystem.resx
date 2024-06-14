@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DisplayName" xml:space="preserve">
+    <value>External request</value>
+  </data>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>External request</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External requests</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="ControlGroup_1173355440ee4e719d4401632612e51e" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_74248b26bd114e4a880cf2f3054d956f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_74248b26bd114e4a880cf2f3054d956f_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_dadc8c4b46a646f8a5a765b4673e1b0e" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_ff1d764146134b73b0cda97368d29236" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_ff1d764146134b73b0cda97368d29236_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_1613b4d48d0644cfa5947d6431ef9c2f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_b56ed82206134ad29b4554d7b1aa32df" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_b56ed82206134ad29b4554d7b1aa32df_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+</root>
